@@ -13,7 +13,7 @@ Python Implementation of Digital Image processing filters Butterworth and Gaussi
 
 3. Gaussian Lowpass Filter
 
-![image](https://user-images.githubusercontent.com/58242932/122706135-debe8800-d274-11eb-991a-3f6e12196b1b.png)
+![image](https://user-images.githubusercontent.com/58242932/122706307-4248b580-d275-11eb-8608-7b4ddce98a24.png)
 
 
 4. Gaussian Highpass Filter
